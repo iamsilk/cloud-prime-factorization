@@ -36,7 +36,7 @@ chmod 600 ~/.ssh/cado
 chmod 644 ~/.ssh/cado.pub
 ```
 
-### Running cado-nfs
+## Running cado-nfs
 
 First, get the cado-nfs run command that Terraform automatically generates.
 
