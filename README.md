@@ -60,7 +60,7 @@ cd /root/cado-nfs
 Run cado-nfs using the generated command. It will look something like this:
 
 ```sh
-./cado-nfs.py <your_prime_num> \
+./cado-nfs.py <number_to_factor> \
     server.address=<master_ip_internal> \
     tasks.workdir=/tmp/c100 \
     slaves.hostnames=<worker_ips_internal> \
